@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "414070575641",
+    "firebase_url": "https://btech-9e071-default-rtdb.firebaseio.com",
+    "project_id": "btech-9e071",
+    "storage_bucket": "btech-9e071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414070575641:android:e992f21eae631715ba1088",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOL-imQLkJkqe_5GRIyv05IW4Wn7K_lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
