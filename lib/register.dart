@@ -95,7 +95,7 @@ class _RegisterPageState extends State<RegisterPage> {
         SnackBar(
           content: Text(
             profileSaveError == null
-                ? "Registration successful. Please log in."
+                ? "Registration successful, Please log in."
                 : "Registration successful, but profile details were not saved.",
           ),
         ),
