@@ -25,7 +25,7 @@ class WelcomePage extends StatelessWidget {
               const Spacer(),
 
               const Text(
-                "JOIN US AND\nEXPLORE OMAN",
+                "JOIN US AND \n EXPLORE OMAN",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.white,
