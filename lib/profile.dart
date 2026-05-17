@@ -344,7 +344,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     Icons.help_outline,
                     color: Colors.blue,
                   ),
-                  const SizedBox(width: 8),
+                  const SizedBox(width: 9),
                   TextButton(
                     onPressed: () {},
                     child: const Text(
