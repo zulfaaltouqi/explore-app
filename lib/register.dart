@@ -6,11 +6,11 @@ import 'firebase_error.dart';
 import 'login.dart';
 import 'user_roles.dart';
 
-class RegisterPage extends StatefulWidget {
+class RegisterPage extends StatefulWidget {{
   const RegisterPage({super.key});
 
   @override
-  State<RegisterPage> createState() => _RegisterPageState();
+  State<RegisterPage> createState() => _RegisterPageState();;
 }
 
 class _RegisterPageState extends State<RegisterPage> {
