@@ -38,7 +38,7 @@ class _RegisterPageState extends State<RegisterPage> {
 
   bool isStrongPassword(String password) {
     final passwordRegExp = RegExp(
-      r'^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[^A-Za-z0-9]).{8,}$',
+      r'^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[^A-Za-z0-9]).{7,}$',
     );
 
     return passwordRegExp.hasMatch(password);
