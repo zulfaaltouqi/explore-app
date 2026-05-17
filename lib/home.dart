@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
             ),
 
             Container(
-              color: Colors.white.withOpacity(0.85),
+              color: Colors.white.withOpacity(0.90),
             ),
 
             ListView(
