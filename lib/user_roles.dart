@@ -4,7 +4,7 @@ const userRoles = <String, String>{
   'tourist': 'Tourist',
 };
 
-const defaultUserRole = 'tourist';
+const defaultUserRole = 'tourist';;
 
 String roleLabel(String role) {
   return userRoles[role] ?? userRoles[defaultUserRole]!;
