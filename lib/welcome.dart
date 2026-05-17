@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'login.dart';
 
-class WelcomePage extends StatelessWidget {
+class WelcomePage extends StatelessWidget {{
   const WelcomePage({super.key});
 
   @override
