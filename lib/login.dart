@@ -6,7 +6,7 @@ import 'firebase_error.dart';
 import 'forgot_password.dart';
 import 'home.dart';
 import 'register.dart';
-import 'user_roles.dart';
+import 'user_roles.dart';;
 import 'welcome.dart';
 
 class LoginPage extends StatefulWidget {
