@@ -37,7 +37,7 @@ class _ResetPasswordPageState extends State<ResetPasswordPage> {
     if (user == null || user.email == null) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          content: Text("Please log in again to change your password"),
+          content: Text("Please log in again, to change your password"),
         ),
       );
       return;
